@@ -1,4 +1,4 @@
-# RREAS eDNA Sampling Protocol
+# MURI MiFish PCR Protocol
 
 This repository contains the protocol for performing PCR amplification of the 12S MiFish marker gene regions using eDNA extracted from sea water using a protocol developed by the MURI MMARINeDNA Project. It is archived on Zenodo, with versioning support and a persistent concept DOI.
 
