@@ -6,7 +6,7 @@ This repository contains the protocol for performing PCR amplification of the 12
 
 | File Name              | Description            | Concept DOI                          | Latest Version DOI                      |
 |------------------------|-----------------------|---------------------------------------|------------------------------------------|
-| `CalCOFI_MiFish_MURIPCR_protocol_04192025.md`        | First version of file |  |  |
+| `CalCOFI_MiFish_MURIPCR_protocol_04192025.md`        | Version 1.0.1 | [10.5281/zenodo.16729110.](https://zenodo.org/records/16923288) | [10.5281/zenodo.16923288](https://zenodo.org/records/16923288) |
 
 ## How to Cite
 
