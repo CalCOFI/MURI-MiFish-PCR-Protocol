@@ -85,9 +85,9 @@ pcr_cycles: 35
 
 | PROTOCOL NAME | LINK  | VERSION | RELEASE DATE | RELATIONSHIP |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| NOAA/AOML PCR Protocol 12S rRNA V5-V6 (MiFish) | [NOAA/AOML PCR Protocol 12S](https://github.com/aomlomics/protocols/blob/main/markdown/protocol_pcr_ssu12sv5v6_mifish.md)  | V5-V6  | 2024-11-16  | Language pertaining to Equipment, Standard Operating Procedure, Quality Control and Troubleshooting was adopted.
+| NOAA/AOML PCR Protocol 12S rRNA V5-V6 (MiFish) | [NOAA/AOML PCR Protocol 12S](https://github.com/aomlomics/protocol-pcr-ssu12sv5v6-mifish/blob/main/protocol_pcr_ssu12sv5v6_mifish.md)  | V5-V6  | 2024-11-16  | Language pertaining to Equipment, Standard Operating Procedure, Quality Control and Troubleshooting was adopted.
 | NOAA-PMEL-OME-MiFish-mod-Universal-Teleost-12S-PCR-Protocol-BeBOP| [NOAA-PMEL-OME-MiFIsh] (https://github.com/marinednadude/NOAA-PMEL-OME-MiFish-mod-Universal-Teleost-12S-PCR-Protocol-BeBOP/blob/main/NOAA-PMEL-OME-MiFish-mod-Universal-Teleost-12S-PCR-Protocol-BeBOP.md)| 1.1.0 | 2025-02-05 | Language pertataining to summary & method description sections and general formatting|
-| RREAS Water eDNA Sampling Protocol| [RREAS Water eDNA Sampling Protocol] (https://github.com/nvpatin/eDNA-protocols/blob/main/RREAS_sampling_BeBOP.md)| 1.0.0| 2025-03-06 | Samples for this project were taken using the methods outlined in the protocol|
+| RREAS Water eDNA Sampling Protocol| [RREAS Water eDNA Sampling Protocol] (https://github.com/CalCOFI/eDNA_sampling_RREAS/blob/main/RREAS_sampling_BeBOP.md)| 1.0.0| 2025-03-06 | Samples for this project were taken using the methods outlined in the protocol|
 | Qubit dsDNA HS Assay| [Qubit dsDNA HS Assay] (https://tools.thermofisher.com/content/sfs/manuals/Qubit_dsDNA_HS_Assay_UG.pdf)| B.0 | 2015-03-05 | Protocol for using the Qubit to quantify DNA|
 # BACKGROUND
 
